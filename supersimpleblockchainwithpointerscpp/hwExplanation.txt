@@ -1,0 +1,2 @@
+First pointer homework
+A random blockchain with no crpytography

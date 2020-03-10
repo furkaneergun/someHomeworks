@@ -1,0 +1,9 @@
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 GUI PROJECT\bin\Debug\CS408 GUI PROJECT.exe.config
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 GUI PROJECT\obj\Debug\CS408_GUI_PROJECT.Form1.resources
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 GUI PROJECT\obj\Debug\CS408_GUI_PROJECT.Properties.Resources.resources
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 GUI PROJECT\obj\Debug\CS408 GUI PROJECT CLIENT.csproj.GenerateResource.Cache
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 GUI PROJECT\bin\Debug\CS408 GUI PROJECT.exe
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 GUI PROJECT\bin\Debug\CS408 GUI PROJECT.pdb
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 GUI PROJECT\obj\Debug\CS408 GUI PROJECT.exe
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 GUI PROJECT\obj\Debug\CS408 GUI PROJECT.pdb
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 GUI PROJECT\obj\Debug\CS408 GUI PROJECT CLIENT.csprojResolveAssemblyReference.cache

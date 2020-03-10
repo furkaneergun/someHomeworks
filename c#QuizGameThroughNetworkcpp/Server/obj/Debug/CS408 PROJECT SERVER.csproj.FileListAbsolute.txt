@@ -1,0 +1,14 @@
+C:\Users\Ekin  Oskay\Desktop\c++\CS408 PROJECT SERVER\bin\Debug\CS408 PROJECT SERVER.exe.config
+C:\Users\Ekin  Oskay\Desktop\c++\CS408 PROJECT SERVER\obj\Debug\CS408 PROJECT SERVER.csprojResolveAssemblyReference.cache
+C:\Users\Ekin  Oskay\Desktop\c++\CS408 PROJECT SERVER\obj\Debug\CS408_PROJECT_SERVER.Form1.resources
+C:\Users\Ekin  Oskay\Desktop\c++\CS408 PROJECT SERVER\obj\Debug\CS408_PROJECT_SERVER.Properties.Resources.resources
+C:\Users\Ekin  Oskay\Desktop\c++\CS408 PROJECT SERVER\obj\Debug\CS408 PROJECT SERVER.csproj.GenerateResource.Cache
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 PROJECT SERVER\bin\Debug\CS408 PROJECT SERVER.exe
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 PROJECT SERVER\bin\Debug\CS408 PROJECT SERVER.pdb
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 PROJECT SERVER\bin\Debug\CS408 PROJECT SERVER.exe.config
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 PROJECT SERVER\obj\Debug\CS408 PROJECT SERVER.csprojResolveAssemblyReference.cache
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 PROJECT SERVER\obj\Debug\CS408_PROJECT_SERVER.Form1.resources
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 PROJECT SERVER\obj\Debug\CS408_PROJECT_SERVER.Properties.Resources.resources
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 PROJECT SERVER\obj\Debug\CS408 PROJECT SERVER.csproj.GenerateResource.Cache
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 PROJECT SERVER\obj\Debug\CS408 PROJECT SERVER.exe
+C:\Users\Cs\Documents\Visual Studio 2015\Projects\CS408 PROJECT SERVER\obj\Debug\CS408 PROJECT SERVER.pdb
