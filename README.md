@@ -1,2 +1,2 @@
 # someHomeworks
-interesting hws from sabanciuniv
+### Homeworks have never been a challange for me through my undergrad years. However in my senior year, I realized the fact that today's career world is full of 'exaggeration' of simple tasks into complex tasks. Therefore I wanted to publish my homeworks that I found interesting to GitHub. Since this repo is created in my senior year, most of the coding based homeworks are lost in the eternal void of my computer, do not expect to see much.
